@@ -15,4 +15,4 @@ function longestSubstringWithoutRepeatingCharacters(str) {
     return maxLength;
 }
 const str = "abcabcbsbsdr";
-console.log(longestSubstringWithoutRepeatingCharacters(str)); // Output: 3 ("abc")
+console.log(longestSubstringWithoutRepeatingCharacters(str)); // Output: 4
